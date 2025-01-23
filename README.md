@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeem-py&show_icons=true&locale=en" alt="azeem-py" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeem-py&" alt="azeem-py" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azeem-py)](https://git.io/streak-stats)
