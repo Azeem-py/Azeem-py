@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeem-py" alt="azeem-py" /></a> </p>
 
-- 🌱 I’m currently learning **by building.**
+- 🌱 I’m currently building **from earth.**
 
-- 👯 I’m looking to collaborate on **web projects**
+- 👯 I’m looking to collaborate on **software projects**
 
 - 📫 How to reach me **bljazeem@gmail.com**
 
-- ⚡ Fun fact **I can solve any problem as a web developer**
+- ⚡ Fun fact **I can solve any problem as a sofeware engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
